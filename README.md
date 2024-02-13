@@ -3,7 +3,7 @@
 This guide provides step-by-step instructions on how to set up and run the Melanin Click Miner on an Android device using Termux.
 
 ## Prerequisites
-
+- Get Whive Wallet Address from [Whive Wallets](https://whiveio.gitbook.io/the-whive-protocol/downloads) or [Melanin Click](https://melanin.click) or [Others](https://whiveio.gitbook.io/the-whive-protocol/other-wallets).
 - Android device.
 - Termux app installed from [F-Droid](https://f-droid.org/).
 
