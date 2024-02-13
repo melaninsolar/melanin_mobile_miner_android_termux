@@ -1,4 +1,4 @@
-## Disclaimer #Melanin Mobile Miner Termux v2.7
+## Disclaimer #Melanin Mobile Miner Android Termux v2.7
 
 Before using this script and setting up Melanin Click Miner on your Android device, please be aware of the following important considerations:
 

@@ -1,4 +1,4 @@
-# Melanin Mobile Android Miner Termux Shell Script v2.7
+# Melanin Mobile Miner Android Termux Shell Script v2.7
 
 #!/bin/bash
 
