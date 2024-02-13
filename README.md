@@ -33,7 +33,7 @@ This guide provides step-by-step instructions on how to set up and run the Melan
     ```
 
 ### Step 4: Start Mining
-1. Make the run.sh shell script executable and run it
+1. Make the run.sh shell script executable and run it:
      ```bash
     chmod +x run.sh
     ./run.sh your_whive_address number_of_threads
@@ -43,6 +43,16 @@ This guide provides step-by-step instructions on how to set up and run the Melan
 
     ```bash
     ./cpuminer -a yespower -o stratum+tcp://206.189.2.17:3333 -u YOUR_WALLET_ADDRESS -p c=WHIVE -t NUMBER_OF_THREADS
+    ```
+### Step 5: Monitor Mining Pool Shares & Profitability
+1. Check your Whive Mining Rewards on the CoinTest Mining Pool Here:
+     ```bash
+    http://whivepool.cointest.com/workers/YOUR_WALLET_ADDRESS
+    ```
+
+2. Check your Whive Mining Profitability on the Whive Mining Calculator Here:
+     ```bash
+    http://whivecalculator.cointest.com/
     ```
 
 ## Important Considerations
