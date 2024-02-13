@@ -1,4 +1,4 @@
-# Melanin Mobile Miner Termux ARM Setup v2.7
+# Melanin Mobile Android Miner Termux ARM & AMD Setup v2.7
 
 This guide provides step-by-step instructions on how to set up and run the Melanin Click Miner on an Android device using Termux.
 
@@ -33,8 +33,13 @@ This guide provides step-by-step instructions on how to set up and run the Melan
     ```
 
 ### Step 4: Start Mining
+1. Make the run.sh shell script executable and run it
+     ```bash
+    chmod +x run.sh
+    ./run.sh your_whive_address number_of_threads
+    ```
 
-1. Run the miner with the following command. Be sure to replace `YOUR_WALLET_ADDRESS` with your actual Whive wallet address and adjust `NUMBER_OF_THREADS` based on your device's capabilities:
+2. Or directly run the miner with the following command. Be sure to replace `YOUR_WALLET_ADDRESS` with your actual Whive wallet address and adjust `NUMBER_OF_THREADS` based on your device's capabilities:
 
     ```bash
     ./cpuminer -a yespower -o stratum+tcp://206.189.2.17:3333 -u YOUR_WALLET_ADDRESS -p c=WHIVE -t NUMBER_OF_THREADS
