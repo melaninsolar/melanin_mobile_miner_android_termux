@@ -3,7 +3,7 @@
 This guide provides step-by-step instructions on how to set up and run the Melanin Mobile Miner on an Android device using Termux.
 
 ## Prerequisites
-- Get Whive Wallet Address from [Whive Wallets](https://whiveio.gitbook.io/the-whive-protocol/downloads) or [Melanin Click](https://melanin.click) or [Others](https://whiveio.gitbook.io/the-whive-protocol/other-wallets).
+- Whive Wallet Address from [Whive Wallets](https://whiveio.gitbook.io/the-whive-protocol/downloads) | [Melanin Click](https://melanin.click) | [Other Wallets](https://whiveio.gitbook.io/the-whive-protocol/other-wallets).
 - Android device.
 - Termux app installed from [F-Droid](https://f-droid.org/).
 
@@ -11,7 +11,7 @@ This guide provides step-by-step instructions on how to set up and run the Melan
 
 ### Step 1: Install Termux
 
-1. Download and install the Termux application from F-Droid to ensure you have the latest version.
+1. Download and install the Termux application from F-Droid to ensure you have the latest version. 
 
 ### Step 2: Update and Install Required Packages
 
